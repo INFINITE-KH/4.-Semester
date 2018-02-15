@@ -9,6 +9,15 @@ Question 1:
 Question 2:
   Across all teams which country is the most common that the players are from
 
+Question 3:
+  What is the difference of the release clause and the value of all players
+  
+Question 4:
+  What is the frequency of age, height and weight for all players
+  
+Question 5: 
+  How much is the difference of value and wage bestween the players
+
 Link 2: https://www.kaggle.com/kendallgillies/video-game-sales-and-ratings/data
 
 The second link is about sales and ratings for games as of January 2017. 
