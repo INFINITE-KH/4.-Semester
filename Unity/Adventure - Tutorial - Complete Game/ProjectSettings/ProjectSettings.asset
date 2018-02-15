@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: b3e93942d96eb44bcb2e1137587a8527
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -859,7 +859,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 77381213-5145-42f4-a5b8-058eb3219604
-  projectName: 
+  projectName: Adventure - Tutorial - Complete Game
   organizationId: infinite-kh
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
