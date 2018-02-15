@@ -30,4 +30,16 @@ Link 2: https://www.kaggle.com/kendallgillies/video-game-sales-and-ratings/data
 The second link is about sales and ratings for games as of January 2017. 
 
 Question 1:
-  Top 3 sold games past 5 years
+  Find the top 3 games that have sold most globaly
+  
+Question 2:
+  How many E rated games have been published in the last 20 years
+  
+Question 3:
+  How much difference is there between the critic score and the user score
+  
+Question 4:
+  Which top 3 games have been sold in North America and in Europe
+  
+Question 5:
+  How many games have been made out of the different genre's
