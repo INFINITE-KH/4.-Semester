@@ -1,6 +1,6 @@
-TEAM: Naughty Solution |               Ali Khazendar
-                                      Casper Emde Christensen
-                                      Stephan Pedersen
+TEAM: Naughty Solution |               Ali Khazendar,
+                                      Casper Emde Christensen,
+                                      Stephan Pedersen,
                                       Nicklas Vikke
                                       
 ---------------------------------------------------------------------------------------------
