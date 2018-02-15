@@ -28,3 +28,6 @@ Question 5:
 Link 2: https://www.kaggle.com/kendallgillies/video-game-sales-and-ratings/data
 
 The second link is about sales and ratings for games as of January 2017. 
+
+Question 1:
+  Top 3 sold games past 5 years
