@@ -1,1 +1,9 @@
+Part 1: Map
 
+The given code is for mapping, copy and paste it in your terminal to run it:
+(defun myMap (f l) (if(equal (car l)nil) l (cons (funcall f(car l))(myMap f (cdr l)) )))
+
+To get the output copy and paste the code below, which should return the result -> (5 7 9 11)
+(myMap (lambda (a) (+ a 2)) (list 3 5 7 9)))
+
+Part 2: 
