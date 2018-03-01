@@ -20,4 +20,4 @@ The syntax for flat mapping is provided below:
 (defun myFlatMap (f l) (if (equal (car l)nil)l (append (myMap f(car l))(myFlatMap f (cdr l)))))
 
 I don't know if part 3 is right because I don't know what to write for executing the code, 
-if you have a solution please tell me, so I can confirm if it's right with the code i wrote
+if you have a solution please tell me, so I can confirm if it's right with the code i wrote.
