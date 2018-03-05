@@ -9,7 +9,7 @@ To get the output copy and paste the code below, which should return the result 
 Part 2: Flattening
 
 For the flatten exercise is the given code below:
-(defun myFlat (l) (if (equal (car l)nil)l (append (car l)(myFlatten(cdr l)))))
+(defun myFlat (l) (if (equal (car l)nil)l (append (car l)(myFlat(cdr l)))))
 
 For testing the code
 (myFlat (list (list 1 2 3) (list 4 5 6)))
