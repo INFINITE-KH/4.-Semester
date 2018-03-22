@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrian2", "Assembly-CSharp.csproj", "{66885C43-19A0-C119-0FAA-E385AF725943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrian2", "Assembly-CSharp-Editor.csproj", "{0481D2BC-1D6F-C929-04B6-3DC5BEBCCA57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{66885C43-19A0-C119-0FAA-E385AF725943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66885C43-19A0-C119-0FAA-E385AF725943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66885C43-19A0-C119-0FAA-E385AF725943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66885C43-19A0-C119-0FAA-E385AF725943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0481D2BC-1D6F-C929-04B6-3DC5BEBCCA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0481D2BC-1D6F-C929-04B6-3DC5BEBCCA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0481D2BC-1D6F-C929-04B6-3DC5BEBCCA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0481D2BC-1D6F-C929-04B6-3DC5BEBCCA57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
