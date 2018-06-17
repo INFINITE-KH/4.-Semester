@@ -1,5 +1,33 @@
 
-# Created by https://www.gitignore.io/api/macos,windows,netbeans
+# Created by https://www.gitignore.io/api/elm,macos,windows,haskell,visualstudiocode
+
+### Elm ###
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+### Haskell ###
+dist
+dist-*
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+cabal.project.local
+.HTF/
 
 ### macOS ###
 *.DS_Store
@@ -28,14 +56,13 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
-nbactions.xml
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -59,4 +86,4 @@ $RECYCLE.BIN/
 *.lnk
 
 
-# End of https://www.gitignore.io/api/macos,windows,netbeans
+# End of https://www.gitignore.io/api/elm,macos,windows,haskell,visualstudiocode
